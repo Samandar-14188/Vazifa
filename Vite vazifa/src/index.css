@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html, #root {
+    height: 100%;
+}
+.layout-logo {
+    width: 200px;
+    height:64px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.layout-logo span {
+    color: white;
+    font-size: 16px;
+}
