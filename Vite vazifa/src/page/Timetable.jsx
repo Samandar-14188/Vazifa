@@ -89,6 +89,7 @@ const Timetable = () => {
             <MyCard data={day} />
           </Col>
         ))}
+      
       </Row>
     </div>
   );
